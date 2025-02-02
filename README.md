@@ -73,7 +73,7 @@ I used **Power BI** for data visualization due to its powerful capabilities in h
 7. **Custom Measures:** Created custom measures and quick measures using DAX to calculate specific metrics such as total sales, average sales price, and growth rates.
 8. **KPI Visualizations:** Developed Key Performance Indicators (KPIs) to track and visualize critical metrics such as sales targets, performance against benchmarks, and market trends.
 
-## Pages
+## Preview
 <div align="center">
    <img width="613" alt="page 1" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/d19f82c5-2063-4ef5-b1d7-b034149ce012">
    <hr>
