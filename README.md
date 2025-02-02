@@ -1,21 +1,19 @@
-# Car Sales Data Analysis Project(POWER BI)
+# Automotive Sales Dashboard _ PowerBI
 
 ## Overview
 
-This project involves analyzing car sales data to uncover valuable insights for the automotive industry. We utilized various datasets from multiple sources and performed comprehensive data visualization using Power BI to meet the project requirements.
+This project involves analyzing car sales data to uncover valuable insights for the automotive industry. I utilized a sample dataset and created comprehensive data visualization using Power BI to meet the project requirements.
 
 ## Data Sources
 
 1. **CSV Files:**
 2. **Excel Files:**
 3. **SQL Server:**
-4. **Access Database:**
-5. **XML Files:**
 6. **Power BI Dataset:**
 
 ## Visualization Tools
 
-We used **Power BI** for data visualization due to its powerful capabilities in handling multiple data sources, interactive dashboard creation, and advanced graphical representation.
+I used **Power BI** for data visualization due to its powerful capabilities in handling multiple data sources, interactive dashboard creation, and advanced graphical representation.
 
 ## Data Processing and Transformation
 
